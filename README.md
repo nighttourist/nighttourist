@@ -1,4 +1,4 @@
-![MasterHead][(https://i.gifer.com/NvL.mp4)](https://i.gifer.com/SUV4.gif)
+[![MasterHead](https://i.gifer.com/SUV4.gif)](https://i.gifer.com/SUV4.gif)
 <h1 align="center">Hi 👋, I'm Md. Rakibul Haque</h1>
 <h3 align="center">A passionate frontend developer from Dhaka ,Banglashdesh</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
